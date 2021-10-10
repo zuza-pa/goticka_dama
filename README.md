@@ -1,0 +1,1 @@
+# goticka_dama
